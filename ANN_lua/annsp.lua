@@ -1,5 +1,4 @@
 require 'torch'
-require 'pl'
 --object declaration
 local annsp = {}
 	
